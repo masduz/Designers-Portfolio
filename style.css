@@ -1,0 +1,66 @@
+* {
+    position: relative;
+    background: #fff;
+    width: 1440px;
+    height: 4725px;
+}
+
+.about {
+    position: absolute;
+    width: 1237px;
+    height: 783.08px;
+    left: 165px;
+    top: 22px;
+}
+
+#menu {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 1206px;
+    top: 50px;
+}
+
+#feather-menu {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1226px;
+    top: 70px;
+}
+
+#group {
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 25%;
+    bottom: 25%;
+}
+
+#bot1 {
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 75%;
+    bottom: 25%;
+    border: 2px solid #25202F;
+}
+
+#bot2 {
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 25%;
+    bottom: 75%;
+
+    border: 2px solid #25202F;
+}
+#bot3 {
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 50%;
+    bottom: 50%;
+
+    border: 2px solid #25202F;
+}
